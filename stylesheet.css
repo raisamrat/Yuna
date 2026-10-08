@@ -1,0 +1,23 @@
+root{
+    --prm-col: rgb(44, 75, 44);
+    --sec-col: rgb(240, 243, 223);
+    --acc-col: rgb(144, 177, 144);
+}
+
+/* *, *::after, *::before{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'poppins', sans-serif;
+}
+
+
+.header h1{
+    text-align: center;
+}
+.header{
+    width: 100%;
+    padding: .5em 0;
+    background-color: rgb(150, 120, 36);
+    color: black;
+} */
